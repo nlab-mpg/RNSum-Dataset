@@ -1,0 +1,28 @@
+delete
+remove
+deleted
+removed
+removal
+removes
+removals
+breaking
+deletion
+deprecate
+deprecated
+deprecation
+deprecations
+compatibility
+incompatibility
+breaking change
+breaking changes
+deprecation warning
+deprecation warnings
+potentially breaking
+removed deprecations
+deprecations and removed
+for future compatibility
+deprecations and removals
+backward incompatible changes
+backwards incompatible changes
+breaking changes and deprecations
+new deprecations, introduced with a warning
